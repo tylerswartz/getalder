@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>About | Alder</title>
+		<!-- <link rel="Bar Roulette Icon" href="images/party.png"/> -->
+
+		<!-- styles -->
+		<link type="text/css" rel="stylesheet" href="styles.css"/>
+		
+		<!-- meta -->
+		<meta content="width=device-width, initial-scale=1.0" name="viewport">
+		<meta name="description" content="This privacy policy is effective February 1, 2017 and discloses the privacy practices for Alder."/>
+	
+		<!-- google tracking -->
+		<!-- <script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  		ga('create', 'UA-75270398-1', 'auto');
+  		ga('send', 'pageview');
+		</script> -->
+	</head>
+	<body>
+		<div id="privacy-policy">
+			<h1>About Me</h1>
+			<p>My name is Tyler. I am a Product Manager in tech, living in San Francisco. Before President Trump's inauguration, I'll admit that I wasn't politically active and privilege allowed me to be unengaged. I now understand civic engagement is needed for our democracy to work. However, the news cycle and political climate make it easy to feel paralyzed. There's so much to do and so much noise. In conversations with friends and family, I heard similar sentiments: where and how do I start to make an impact? I'm not a full-time activist, how can I really help? Does my voice matter? Where do I begin?</p>
+			<p>Alder helps you stay focused on <strong>one</strong> action every day. Your voice matters and you can make an impact every single day by doing one simple action. Our voices are stronger together.</p>
+			<p>Questions, comments, concerns? Connect with me on Twitter <a href="https://twitter.com/tylerswartz">@tylerswartz</a></p>
+		</div>
+	</body>
+</html>
+

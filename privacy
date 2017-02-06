@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Privacy Policy | Alder</title>
+		<!-- <link rel="Bar Roulette Icon" href="images/party.png"/> -->
+
+		<!-- styles -->
+		<link type="text/css" rel="stylesheet" href="styles.css"/>
+		
+		<!-- meta -->
+		<meta content="width=device-width, initial-scale=1.0" name="viewport">
+		<meta name="description" content="This privacy policy is effective February 1, 2017 and discloses the privacy practices for Alder."/>
+	
+		<!-- google tracking -->
+		<!-- <script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  		ga('create', 'UA-75270398-1', 'auto');
+  		ga('send', 'pageview');
+		</script> -->
+	</head>
+	<body>
+		<div id="privacy-policy">
+			<h1>Alder Privacy Policy</h1>
+			<p>Effective Date: February 1, 2017</p>
+			<p>This privacy policy discloses the privacy practices for the Alder iOS App ("App"). This privacy policy applies solely to information collected by this App. It will notify you of the following:</p>
+			<ul>
+				<li>What personally identifiable information is collected from you, how it is used and with whom it may be shared.</li>
+				<li>What information is collected by third-parties.</li>
+				<li>The security procedures in place to protect the misuse of your information.</li>	
+			</ul>
+			<h2>Information Collection, Use, and Sharing</h2>
+			<p>We are the sole owners of the information collected on this site. We only have access to limited information collected when you use the App. We do not ask for/or collect personal information. You are not required to create a user account to use the App. If you search for your Representatives within the App we will collect and store your zipcode. These zipcodes are stored anonymously.</p>
+			<p>We will not sell, rent or share your information with any third party.</p>
+			<h2>Information Collected Using Technologies</h2>
+			<p>Like many app operators, we use automated data collection tools to collect certain information that your mobile device sends when you use our App, like a device identifier, user settings, and the operating system of your device, as well as information about your use of our App. Some third party services providers that we engage may also track and report information about how and when you interact with our App and information about your mobile device (such as device hardware, operating system, and location). We may use that information to customize and improve our App.</p>
+			<h2>Security</h2>
+			<p>We take reasonable administrative, physical and electronic measures designed to protect the information that we collect from or about you from unauthorized access, use or disclosure. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the absolute security of any information.</p>
+			<h2>Updates</h2>
+			<p>Our Privacy Policy may change from time to time and all updates will be posted on this page.</p>
+			<p>If you feel that we are not abiding by this privacy policy, you should contact us immediately via email at hello@getalder.com.</p>
+		</div>
+	</body>
+</html>
+
