@@ -148,7 +148,7 @@ body {
 
 #app-button {
   position: fixed;
-  bottom: 85px;
+  bottom: 65px;
   left: 50%;
   margin-left: -68px;
   background-color: rgba(1,1,1,0.85);
