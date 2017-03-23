@@ -25,7 +25,7 @@
 	<body>
 		<div id="privacy-policy">
 			<h1>Alder Privacy Policy</h1>
-			<p>Effective Date: February 1, 2017</p>
+			<p>Effective Date: March 23, 2017</p>
 			<p>This privacy policy discloses the privacy practices for the Alder iOS App ("App"). This privacy policy applies solely to information collected by this App. It will notify you of the following:</p>
 			<ul>
 				<li>What personally identifiable information is collected from you, how it is used and with whom it may be shared.</li>
@@ -33,7 +33,7 @@
 				<li>The security procedures in place to protect the misuse of your information.</li>	
 			</ul>
 			<h2>Information Collection, Use, and Sharing</h2>
-			<p>We are the sole owners of the information collected on this site. We only have access to limited information collected when you use the App. We do not ask for/or collect personal information. You are not required to create a user account to use the App. If you search for your Representatives within the App we will collect and store your zipcode. These zipcodes are stored anonymously.</p>
+			<p>We are the sole owners of the information collected on this site. We only have access to limited information collected when you use the App. We do not ask for/or collect personal information. You are not required to create a user account to use the App. If you search for your Representatives within the App we will collect and store your zipcode or address. These zipcodes and addresses are stored anonymously and not associated with your device id.</p>
 			<p>We will not sell, rent or share your information with any third party.</p>
 			<h2>Information Collected Using Technologies</h2>
 			<p>Like many app operators, we use automated data collection tools to collect certain information that your mobile device sends when you use our App, like a device identifier, user settings, and the operating system of your device, as well as information about your use of our App. Some third party services providers that we engage may also track and report information about how and when you interact with our App and information about your mobile device (such as device hardware, operating system, and location). We may use that information to customize and improve our App.</p>
